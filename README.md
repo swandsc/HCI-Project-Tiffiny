@@ -11,5 +11,5 @@ Mahah Sadique - PES1201801156
 1. Presentation
 2. Concept Video
 3. Lo-Fi Prototype: Empathy Map
-4. Heuristic Evaluation
-5. Hi-Fi Prototype
+4. Hi-Fi Prototype
+5. Heuristic Evaluation
